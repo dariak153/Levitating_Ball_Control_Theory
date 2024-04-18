@@ -7,8 +7,8 @@ Block diagram implementing state feedback control in Simulnik
 Block diagram implementing state-feedforward in Simulink
 ![Kalman filter](https://github.com/dariak153/Levitating_Ball_Control_Theory/blob/main/Petla_z_filtrem_Kalmana.png)
 Schematic diagram implementing the Kalman filter in Simulink
-![Kalman filter figure](https://github.com/dariak153/Levitating_Ball_Control_Theory/blob/main/Wykres_obserwator_otwarty.png)
 
+![Kalman filter figure](https://github.com/dariak153/Levitating_Ball_Control_Theory/blob/main/Wykres_obserwator_otwarty.png)
 ![Kalman filter figure](https://github.com/dariak153/Levitating_Ball_Control_Theory/blob/main/Wykres_obserwator_zamkniety.png)
 
 
